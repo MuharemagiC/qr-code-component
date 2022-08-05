@@ -26,8 +26,6 @@
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- Angular
-- SCSS
 
 ### What I learned
 
